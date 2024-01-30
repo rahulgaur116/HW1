@@ -53,3 +53,5 @@ Following chnages were made to the html & css styling file to improve accesibili
 
 11. Added "alt" atribute with descriptive text to every image element to improve accessibility.
 
+12. Renamed the "hero" element as "main-image". Chnaged it to a class so an "alt" attribute can be added in html and stying can be done to the image under css style file.
+
